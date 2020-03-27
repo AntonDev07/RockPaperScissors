@@ -1,2 +1,2 @@
 # RockPaperScissors
-Rock Paper and Scissors game
+Second game that i made
