@@ -1,2 +1,2 @@
 # RockPaperScissors
-Second game that i made
+Second game that I made (inspired by Dev Ed)
